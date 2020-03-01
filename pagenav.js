@@ -1,5 +1,5 @@
 // Page Navigation
-    var perPage=3;
+    var perPage=6;
     var numPages=3;
     var firstText ='« First';
     var lastText ='Last »';
