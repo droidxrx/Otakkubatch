@@ -1,17 +1,17 @@
 1
 00:00:02,601 --> 00:00:05,921
-<i>Lima hari telah berlalu sejak
-debutku sebagai Pahlawan Profesional.</i>
+Lima hari telah berlalu sejak
+debutku sebagai Pahlawan Profesional.
 
 2
 00:00:06,181 --> 00:00:09,091
-<i>Namun masih belum ada
-satu pun kejadian besar.</i>
+Namun masih belum ada
+satu pun kejadian besar.
 
 3
 00:00:09,231 --> 00:00:13,841
-<i>Dan, untuk suatu alasan,
-Genos-kun tinggal di rumahku.</i>
+Dan, untuk suatu alasan,
+Genos-kun tinggal di rumahku.
 
 4
 00:00:14,821 --> 00:00:17,051
@@ -24,40 +24,40 @@ dan kegiatan latihan Guru.
 
 6
 00:00:20,351 --> 00:00:21,701
-<i>Gawat.</i>
+Gawat.
 
 7
 00:00:21,701 --> 00:00:23,531
-<i>Kesalahpahamannya makin parah ....</i>
+Kesalahpahamannya makin parah ....
 
 8
 00:00:23,531 --> 00:00:26,601
-<i>Padahal aku tak bisa
-mengajari Genos apa pun.</i>
+Padahal aku tak bisa
+mengajari Genos apa pun.
 
 9
 00:00:26,771 --> 00:00:29,401
-<i>Kalau terus seperti ini,
-aku jadi seperti menipunya.</i>
+Kalau terus seperti ini,
+aku jadi seperti menipunya.
 
 10
 00:00:29,711 --> 00:00:31,711
-<i>Berpikirlah!</i>
+Berpikirlah!
 
 11
 00:00:30,551 --> 00:00:34,261
-<i>Mengenai suatu latihan atau
-teori spiritual juga tak masalah ....</i>
+Mengenai suatu latihan atau
+teori spiritual juga tak masalah ....
 
 12
 00:00:34,281 --> 00:00:36,241
-<i>Ah buntu, yang kulakukan
-cuma latihan fisik doang.</i>
+Ah buntu, yang kulakukan
+cuma latihan fisik doang.
 
 13
 00:00:36,241 --> 00:00:38,911
-<i>Aku yakin Genos takkan puas
-dengan itu, lagian juga dia itu Cyborg!</i>
+Aku yakin Genos takkan puas
+dengan itu, lagian juga dia itu Cyborg!
 
 14
 00:00:38,911 --> 00:00:40,911
@@ -211,8 +211,8 @@ mungkin kau akan bertambah kuat.
 
 47
 00:02:00,301 --> 00:02:03,451
-<i>Gawat, gua ngomong
-apa juga enggak ngerti.</i>
+Gawat, gua ngomong
+apa juga enggak ngerti.
 
 48
 00:02:04,891 --> 00:02:07,121
@@ -253,35 +253,35 @@ Aku kucoba!
 
 57
 00:02:27,121 --> 00:02:29,981
-<i>Aku berhasil meyakinkannya, syukurlah!</i>
+Aku berhasil meyakinkannya, syukurlah!
 
 58
 00:02:36,001 --> 00:02:38,281
-<i>Setelah itu, aku berkeliling kota.</i>
+Setelah itu, aku berkeliling kota.
 
 59
 00:02:38,281 --> 00:02:40,781
-<i>Mencari orang jahat di keramaian kota ....</i>
+Mencari orang jahat di keramaian kota ....
 
 60
 00:02:40,841 --> 00:02:41,951
-<i>Aku berlari.</i>
+Aku berlari.
 
 61
 00:02:42,211 --> 00:02:43,281
-<i>Lari.</i>
+Lari.
 
 62
 00:02:43,591 --> 00:02:45,591
-<i>Dan lari.</i>
+Dan lari.
 
 63
 00:02:45,381 --> 00:02:47,381
-<i>Tapi,</i>
+Tapi,
 
 64
 00:02:46,931 --> 00:02:49,161
-<i>kotanya terlalu damai!</i>
+kotanya terlalu damai!
 
 65
 00:02:50,521 --> 00:02:51,831
@@ -335,7 +335,7 @@ Bukan, "Legenda ...."?
 
 77
 00:05:15,651 --> 00:05:17,131
-<i>Jack-o'-lantern Panic!</i>
+Jack-o'-lantern Panic!
 
 78
 00:05:17,131 --> 00:05:18,641
@@ -364,13 +364,13 @@ Kaupikir …
 
 84
 00:05:37,001 --> 00:05:39,281
-<i>Loh?
-Aku tak melihat apa yang terjadi barusan.</i>
+Loh?
+Aku tak melihat apa yang terjadi barusan.
 
 85
 00:05:40,101 --> 00:05:43,451
-<i>Padahal kupikir aku sudah
-memotong wajahnya, tapi pedangnya justru ....</i>
+Padahal kupikir aku sudah
+memotong wajahnya, tapi pedangnya justru ....
 
 86
 00:05:44,051 --> 00:05:47,251
@@ -501,7 +501,7 @@ membuatku terlihat keren?
 
 115
 00:07:07,121 --> 00:07:08,791
-<i>Shuriken Meledak.</i>
+Shuriken Meledak.
 
 116
 00:07:11,011 --> 00:07:12,631
@@ -555,7 +555,7 @@ menolak bertarung denganku, Pahlawan Saitama!
 
 128
 00:07:45,671 --> 00:07:47,241
-<i>Hujan Pembantaian!</i>
+Hujan Pembantaian!
 
 129
 00:07:57,391 --> 00:07:58,761
@@ -1058,8 +1058,8 @@ Amai Mask terus berada di puncak ....
 
 242
 00:14:10,021 --> 00:14:11,171
-<i>– Ada sesuatu muncul!
-– Ada sesuatu muncul!</i>
+– Ada sesuatu muncul!
+– Ada sesuatu muncul!
 
 243
 00:14:11,171 --> 00:14:12,591
@@ -1142,15 +1142,15 @@ Golden Ball!
 
 262
 00:16:04,381 --> 00:16:06,031
-<i>Tomboy ...</i>
+Tomboy ...
 
 263
 00:16:07,541 --> 00:16:09,541
-<i>... thrust!</i>
+... thrust!
 
 264
 00:16:12,141 --> 00:16:14,711
-<i>Dia menghindari serangan Tomboy-ku?</i>
+Dia menghindari serangan Tomboy-ku?
 
 265
 00:16:20,981 --> 00:16:22,381
@@ -1158,30 +1158,30 @@ Lumayan juga.
 
 266
 00:16:23,071 --> 00:16:24,381
-<i>Tentakel itu ....</i>
+Tentakel itu ....
 
 267
 00:16:24,441 --> 00:16:26,971
-<i>Dilihat dari reaksinya,
-sepertinya tentakel itu sekuat baja.</i>
+Dilihat dari reaksinya,
+sepertinya tentakel itu sekuat baja.
 
 268
 00:16:27,151 --> 00:16:30,181
-<i>Seekor monster yang mampu
-menggunakan tentakel dengan jumlah tak terbatas</i>
+Seekor monster yang mampu
+menggunakan tentakel dengan jumlah tak terbatas
 
 269
 00:16:30,181 --> 00:16:31,521
-<i>seperti cambuk baja ....</i>
+seperti cambuk baja ....
 
 270
 00:16:32,661 --> 00:16:33,851
-<i>Monster ini kuat!</i>
+Monster ini kuat!
 
 271
 00:16:38,041 --> 00:16:40,531
-<i>Aku harus memanggil
-bantuan dari Asosiasi Pahlawan.</i>
+Aku harus memanggil
+bantuan dari Asosiasi Pahlawan.
 
 272
 00:16:41,631 --> 00:16:42,981
@@ -1695,30 +1695,30 @@ MURID TERHEBAT
 
 391
 00:24:12,561 --> 00:24:15,151
-<i>Mungkin aku lebih dikenal dengan sebutan "Putri Salju Dari Neraka".</i>
+Mungkin aku lebih dikenal dengan sebutan "Putri Salju Dari Neraka".
 
 392
 00:24:16,121 --> 00:24:19,191
-<i>Yah, aku cuma dapat
-sedikit bagian di episode ini.</i>
+Yah, aku cuma dapat
+sedikit bagian di episode ini.
 
 393
 00:24:19,191 --> 00:24:21,241
-<i>Selanjutnya di One Punch Man episode 7,</i>
+Selanjutnya di One Punch Man episode 7,
 
 394
 00:24:21,241 --> 00:24:22,611
-<i>"Murid Terhebat."</i>
+"Murid Terhebat."
 
 395
 00:24:24,091 --> 00:24:26,201
-<i>Akhirnya Fubuki yang hebat memulai debutnya.</i>
+Akhirnya Fubuki yang hebat memulai debutnya.
 
 396
 00:24:26,201 --> 00:24:29,121
-<i>Fubuki-sama, tapi menurut jadwal
-bukan minggu depan!</i>
+Fubuki-sama, tapi menurut jadwal
+bukan minggu depan!
 
 397
 00:24:29,121 --> 00:24:31,121
-<i>Itu bohong, 'kan?!</i>
+Itu bohong, 'kan?!
