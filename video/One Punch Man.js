@@ -15,6 +15,12 @@ function eps31080P() {
 function eps41080P() {
     $("#nonton-bro").empty();var ifrm=document.createElement("iframe");ifrm.setAttribute("class","nonton-bro-item");ifrm.setAttribute("src","https://tinyurl.com/rsxv35x");ifrm.setAttribute("allow","autoplay");ifrm.setAttribute("allowfullscreen","true");document.getElementById("nonton-bro").appendChild(ifrm);
 }
+function eps51080P() {
+    $("#nonton-bro").empty();var ifrm=document.createElement("iframe");ifrm.setAttribute("class","nonton-bro-item");ifrm.setAttribute("src","https://tinyurl.com/rm9cfx9");ifrm.setAttribute("allow","autoplay");ifrm.setAttribute("allowfullscreen","true");document.getElementById("nonton-bro").appendChild(ifrm);
+}
+function eps61080P() {
+    $("#nonton-bro").empty();var ifrm=document.createElement("iframe");ifrm.setAttribute("class","nonton-bro-item");ifrm.setAttribute("src","https://tinyurl.com/rbhdpv2");ifrm.setAttribute("allow","autoplay");ifrm.setAttribute("allowfullscreen","true");document.getElementById("nonton-bro").appendChild(ifrm);
+}
 
 //720p
 
@@ -29,4 +35,10 @@ function eps3720P() {
 }
 function eps4720P() {
     $("#nonton-bro").empty();var ifrm=document.createElement("iframe");ifrm.setAttribute("class","nonton-bro-item");ifrm.setAttribute("src","https://tinyurl.com/rdah96c");ifrm.setAttribute("allow","autoplay");ifrm.setAttribute("allowfullscreen","true");document.getElementById("nonton-bro").appendChild(ifrm)
+}
+function eps5720P() {
+    $("#nonton-bro").empty();var ifrm=document.createElement("iframe");ifrm.setAttribute("class","nonton-bro-item");ifrm.setAttribute("src","https://tinyurl.com/wsqhtj7");ifrm.setAttribute("allow","autoplay");ifrm.setAttribute("allowfullscreen","true");document.getElementById("nonton-bro").appendChild(ifrm)
+}
+function eps6720P() {
+    $("#nonton-bro").empty();var ifrm=document.createElement("iframe");ifrm.setAttribute("class","nonton-bro-item");ifrm.setAttribute("src","https://tinyurl.com/yx2vd5oz");ifrm.setAttribute("allow","autoplay");ifrm.setAttribute("allowfullscreen","true");document.getElementById("nonton-bro").appendChild(ifrm)
 }
