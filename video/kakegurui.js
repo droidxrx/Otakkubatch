@@ -5,8 +5,7 @@ function MyRemove() {
 //720p
 
 function eps1720P() {
-    $("#nonton-bro").empty();var ifrm=document.createElement("iframe");ifrm.setAttribute("class","nonton-bro-item");ifrm.setAttribute("src","https://muvix.us/video/a5q8uUan3bHax7i/");ifrm.setAttribute("scrolling","no");ifrm.setAttribute("allowfullscreen","true");document.getElementById("nonton-bro").appendChild(ifrm);
-    document.getElementById("nonton-bro").innerHTML = "<div class=\"lds-ripple2\"><div class=\"lds-ripple\"><div></div><div></div></div></div>";
+    $("#nonton-bro").empty();document.getElementById("nonton-bro").innerHTML = "<div class=\"lds-ripple2\"><div class=\"lds-ripple\"><div></div><div></div></div></div>";var ifrm=document.createElement("iframe");ifrm.setAttribute("class","nonton-bro-item");ifrm.setAttribute("src","https://muvix.us/video/a5q8uUan3bHax7i/");ifrm.setAttribute("scrolling","no");ifrm.setAttribute("allowfullscreen","true");document.getElementById("nonton-bro").appendChild(ifrm)
 }
 function eps2720P() {
     $("#nonton-bro").empty();var ifrm=document.createElement("iframe");ifrm.setAttribute("class","nonton-bro-item");ifrm.setAttribute("src","https://muvix.us/video/DjYudwYlPo58fEZ/");ifrm.setAttribute("scrolling","no");ifrm.setAttribute("allowfullscreen","true");document.getElementById("nonton-bro").appendChild(ifrm)
