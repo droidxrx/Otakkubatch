@@ -1,6 +1,6 @@
 $('.dropbtn').attr('onClick', 'MyRemove()');
 function MyRemove() {
-    $("#nonton-bro").empty();var image=document.createElement("img");image.setAttribute("src","https://cdn.statically.io/img/3.bp.blogspot.com/-Te2qDKpTrBo/XmcMr_B9UpI/AAAAAAAAALQ/dXJtN0yDoew0tdAck1hWSxg24JJSG9AggCLcBGAsYHQ/s1600/bg.jpg");document.getElementById("nonton-bro").appendChild(image);
+    $("#nonton-bro").empty();
 };
 //720p
 
