@@ -37,7 +37,10 @@ function eps91080P() {
     $("#nonton-bro").empty();document.getElementById("nonton-bro").innerHTML = "<div class=\"lds-ripple2\"><div class=\"lds-ripple\"><div></div><div></div></div></div>";var ifrm=document.createElement("iframe");ifrm.setAttribute("class","nonton-bro-item");
     ifrm.setAttribute("src","https://muvix.us/video/b1kZzXWEjWJS5AL/");ifrm.setAttribute("scrolling","no");ifrm.setAttribute("allowfullscreen","true");document.getElementById("nonton-bro").appendChild(ifrm);
 }
-
+function eps101080P() {
+    $("#nonton-bro").empty();document.getElementById("nonton-bro").innerHTML = "<div class=\"lds-ripple2\"><div class=\"lds-ripple\"><div></div><div></div></div></div>";var ifrm=document.createElement("iframe");ifrm.setAttribute("class","nonton-bro-item");
+    ifrm.setAttribute("src","https://muvix.us/video/5aWGAiRcFtl9pUE/");ifrm.setAttribute("scrolling","no");ifrm.setAttribute("allowfullscreen","true");document.getElementById("nonton-bro").appendChild(ifrm);
+}
 //720p
 function eps1720P() {
     $("#nonton-bro").empty();document.getElementById("nonton-bro").innerHTML = "<div class=\"lds-ripple2\"><div class=\"lds-ripple\"><div></div><div></div></div></div>";var ifrm=document.createElement("iframe");ifrm.setAttribute("class","nonton-bro-item");
@@ -74,4 +77,8 @@ function eps8720P() {
 function eps9720P() {
     $("#nonton-bro").empty();document.getElementById("nonton-bro").innerHTML = "<div class=\"lds-ripple2\"><div class=\"lds-ripple\"><div></div><div></div></div></div>";var ifrm=document.createElement("iframe");ifrm.setAttribute("class","nonton-bro-item");
     ifrm.setAttribute("src","https://muvix.us/video/dlLWF6RXMxclWxu/");ifrm.setAttribute("scrolling","no");ifrm.setAttribute("allowfullscreen","true");document.getElementById("nonton-bro").appendChild(ifrm)
+}
+function eps10720P() {
+    $("#nonton-bro").empty();document.getElementById("nonton-bro").innerHTML = "<div class=\"lds-ripple2\"><div class=\"lds-ripple\"><div></div><div></div></div></div>";var ifrm=document.createElement("iframe");ifrm.setAttribute("class","nonton-bro-item");
+    ifrm.setAttribute("src","https://muvix.us/video/KMyata7woRdtjui/");ifrm.setAttribute("scrolling","no");ifrm.setAttribute("allowfullscreen","true");document.getElementById("nonton-bro").appendChild(ifrm)
 }
