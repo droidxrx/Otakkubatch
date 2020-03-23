@@ -42,6 +42,10 @@ function eps101080P() {
     $("#nonton-bro").empty();document.getElementById("nonton-bro").innerHTML = "<div class=\"lds-ripple2\"><div class=\"lds-ripple\"><div></div><div></div></div></div>";var ifrm=document.createElement("iframe");ifrm.setAttribute("class","nonton-bro-item");
     ifrm.setAttribute("src","https://tinyurl.com/wmvem8t");ifrm.setAttribute("scrolling","no");ifrm.setAttribute("allowfullscreen","true");document.getElementById("nonton-bro").appendChild(ifrm);
 }
+function eps111080P() {
+    $("#nonton-bro").empty();document.getElementById("nonton-bro").innerHTML = "<div class=\"lds-ripple2\"><div class=\"lds-ripple\"><div></div><div></div></div></div>";var ifrm=document.createElement("iframe");ifrm.setAttribute("class","nonton-bro-item");
+    ifrm.setAttribute("src","//gdriveplayer.me/embed2.php?link=BDg2jioqyeJw7UMIyUsqVQR%252Bv5vXobKxkpnTlvC9JiuBXlndcuJaoXIyStrcMGLG3Ov1dvIozlmJ6FdgpcdygqcPyz5r3aUzR0oEdrvPtwDUe2O8c0GpeuJARhPEOQUGWi22PNuU9UF9CAkdwNYdmf79PZBz41zoReQLCqWpfHGZ%252F2Kj6R2yehKOe5gGeNypNnW2A4P0qXGLf6A4x9Va2qT%252FAlvSVO76IwdkW23DfwrflZVXBol9RrVTo7mGXuVA4Er9f2h4gYtP5zQIoxUaCBSB979epgbpZlA3dXwJCPRoHVQuaKm7y0uOvh%252F9Y%252F1uHteao%252BcbsmIFdVGBbd4LFJ");ifrm.setAttribute("scrolling","no");ifrm.setAttribute("allowfullscreen","true");document.getElementById("nonton-bro").appendChild(ifrm);
+}
 
 //720p
 function eps1720P() {
@@ -83,6 +87,10 @@ function eps9720P() {
 function eps10720P() {
     $("#nonton-bro").empty();document.getElementById("nonton-bro").innerHTML = "<div class=\"lds-ripple2\"><div class=\"lds-ripple\"><div></div><div></div></div></div>";var ifrm=document.createElement("iframe");ifrm.setAttribute("class","nonton-bro-item");
     ifrm.setAttribute("src","https://tinyurl.com/t4zneu8");ifrm.setAttribute("scrolling","no");ifrm.setAttribute("allowfullscreen","true");document.getElementById("nonton-bro").appendChild(ifrm)
+}
+function eps11720P() {
+    $("#nonton-bro").empty();document.getElementById("nonton-bro").innerHTML = "<div class=\"lds-ripple2\"><div class=\"lds-ripple\"><div></div><div></div></div></div>";var ifrm=document.createElement("iframe");ifrm.setAttribute("class","nonton-bro-item");
+    ifrm.setAttribute("src","//gdriveplayer.me/embed2.php?link=0R8sRO7OSBFZ7jJXhTy4Vwl8Zfrs0gL7bIUI%252F5lJuC2DoJYuaK2knswe1P%252FFhTYkouHe%252Fz%252F0Y9kgX%252FnHYvIgXyadV60YGUGcwJsISf7UDtru5QsTQ3Q03KtLnrje9rmE%252BpS8R%252BxYbTAWh3mLQq1qAREMKSIGn%252BNCTC9G4nMEJIWGNxXLNs%252BmTGVkZAblAyD2qeFXFoajafjXaQdbB9%252BtHxHfW%252Bt3WMjpPwbw4278n2DGNLd1oCMtx9OENfy16AvM0C%252BToITXwOf22F5DfyENRvcnLQZMw1TOAs7JyaN1JmWq%252F3VlHu9MxwzOyZD24s%252FuBYK0IqGy7%252BUSe%252BaSZapYZS");ifrm.setAttribute("scrolling","no");ifrm.setAttribute("allowfullscreen","true");document.getElementById("nonton-bro").appendChild(ifrm)
 }
 
 //Muxix
@@ -127,6 +135,10 @@ function epss101080P() {
     $("#nonton-bro").empty();document.getElementById("nonton-bro").innerHTML = "<div class=\"lds-ripple2\"><div class=\"lds-ripple\"><div></div><div></div></div></div>";var ifrm=document.createElement("iframe");ifrm.setAttribute("class","nonton-bro-item");
     ifrm.setAttribute("src","https://muvix.us/video/GDR9wcwuqH38afD/");ifrm.setAttribute("scrolling","no");ifrm.setAttribute("allowfullscreen","true");document.getElementById("nonton-bro").appendChild(ifrm);
 }
+function epss111080P() {
+    $("#nonton-bro").empty();document.getElementById("nonton-bro").innerHTML = "<div class=\"lds-ripple2\"><div class=\"lds-ripple\"><div></div><div></div></div></div>";var ifrm=document.createElement("iframe");ifrm.setAttribute("class","nonton-bro-item");
+    ifrm.setAttribute("src","https://muvix.us/video/z1onFfdOjlwMBcw/");ifrm.setAttribute("scrolling","no");ifrm.setAttribute("allowfullscreen","true");document.getElementById("nonton-bro").appendChild(ifrm);
+}
 
 //720p
 function epss1720P() {
@@ -168,4 +180,8 @@ function epss9720P() {
 function epss10720P() {
     $("#nonton-bro").empty();document.getElementById("nonton-bro").innerHTML = "<div class=\"lds-ripple2\"><div class=\"lds-ripple\"><div></div><div></div></div></div>";var ifrm=document.createElement("iframe");ifrm.setAttribute("class","nonton-bro-item");
     ifrm.setAttribute("src","https://muvix.us/video/uGg9tAML3PVLUWa/");ifrm.setAttribute("scrolling","no");ifrm.setAttribute("allowfullscreen","true");document.getElementById("nonton-bro").appendChild(ifrm)
+}
+function epss11720P() {
+    $("#nonton-bro").empty();document.getElementById("nonton-bro").innerHTML = "<div class=\"lds-ripple2\"><div class=\"lds-ripple\"><div></div><div></div></div></div>";var ifrm=document.createElement("iframe");ifrm.setAttribute("class","nonton-bro-item");
+    ifrm.setAttribute("src","https://muvix.us/video/EUF3TyxfIUr6IEo/");ifrm.setAttribute("scrolling","no");ifrm.setAttribute("allowfullscreen","true");document.getElementById("nonton-bro").appendChild(ifrm)
 }
