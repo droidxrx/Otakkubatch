@@ -1,0 +1,19 @@
+{
+    "name": "SijorePC",
+    "short_name": "SijorePC",
+    "icons": [
+        {
+            "src": "https://cdn.statically.io/img/1.bp.blogspot.com/-JP-zBkUAzwU/XoThRREK-bI/AAAAAAAAAhI/9IkeveHT9lIrkCbKdG-Q1WRmiYB0HpqZQCK4BGAsYHg/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://cdn.statically.io/img/1.bp.blogspot.com/-J9eFnqOR3PQ/XoThUr-Mm4I/AAAAAAAAAhU/-PuINx__7KwZTVQ0a3paRu2HxJ47JmuigCK4BGAsYHg/android-chrome-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#424a56",
+    "background_color": "#424a56",
+    "display": "standalone"
+}
