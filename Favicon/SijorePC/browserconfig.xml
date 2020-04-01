@@ -1,2 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<browserconfig><msapplication><tile><square70x70logo src="https://1.bp.blogspot.com/-ziZl2y3O4_4/XoTTIRL56TI/AAAAAAAAAc8/nBN_YiqEiR8rv8GkEqt2aX_vI3ZhygdPwCK4BGAsYHg/ms-icon-70x70.png"/><square144x144logo src="https://1.bp.blogspot.com/-tLhk6Ld4mHU/XoTTLeZ35tI/AAAAAAAAAdI/h7fVm8S6PDURCBze1Hk1778vf367FpraACK4BGAsYHg/ms-icon-144x144.png"/><square150x150logo src="https://1.bp.blogspot.com/-xcpBIZQk4Pk/XoTTOLmAYEI/AAAAAAAAAdU/t49cdTgySNMIcmg3GDq0EzfXy_tDKYE8ACK4BGAsYHg/ms-icon-150x150.png"/><square310x310logo src="https://1.bp.blogspot.com/--TfLbNd1Sfo/XoTTSKC8ayI/AAAAAAAAAdg/coHJLKDE3zgDxBezFxPov8ZuZAAcMmONgCK4BGAsYHg/ms-icon-310x310.png"/><TileColor>#ffffff</TileColor></tile></msapplication></browserconfig>
+<browserconfig>
+    <msapplication>
+        <tile>
+            <square150x150logo src="https://cdn.statically.io/img/1.bp.blogspot.com/-3-MCAdJlJIo/XoTfXHSfFWI/AAAAAAAAAf0/sG82dRoklscIwUDLdC8aiQ2MBggS5c3eQCK4BGAsYHg/mstile-150x150.png"/>
+            <TileColor>#424a56</TileColor>
+        </tile>
+    </msapplication>
+</browserconfig>
